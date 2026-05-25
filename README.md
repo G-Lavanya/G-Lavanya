@@ -11,7 +11,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+Engineer+%7C+Building+Scalable+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Engineer;Building+Scalable+Systems" alt="Typing Animation" />
 </p>
 
 ---
