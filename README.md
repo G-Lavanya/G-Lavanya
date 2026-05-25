@@ -11,22 +11,22 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+Engineer;8%2B+Years+of+Enterprise+Experience;Java+%7C+Kafka+%7C+AWS+%7C+Microservices;Building+Scalable%2C+High-Performance+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+Engineer+%7C+Building+Scalable+Systems" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** with **8+ years of experience** building scalable, high-performance enterprise applications and supporting distributed messaging platforms across cloud and production environments. My expertise includes **Java**, **Spring Boot**, **Microservices**, **Kafka**, **AWS**, **SQL**, **REST APIs**, **Docker**, **Kubernetes**, and **event-driven architectures**, with a strong focus on backend systems, production support, infrastructure reliability, and cloud-native application development.
+I'm a **Software Developer** with **8+ years of experience** building scalable, high-performance enterprise applications and supporting distributed messaging platforms across cloud and production environments.
 
-**Currently at Bit Solutions**, I contribute to designing and developing scalable backend services, Spring Boot microservices, REST APIs, and Kafka-based distributed systems in Agile environments. I collaborate closely with engineering, DevOps, QA, and product teams to deliver reliable, high-availability enterprise solutions while supporting production operations, troubleshooting critical issues, and improving system performance and stability.
+**Currently at Bit Solutions**, I contribute to designing and developing scalable backend services, Spring Boot microservices, REST APIs, and Kafka-based distributed systems in Agile environments. I collaborate with cross-functional teams to deliver high-quality solutions.
 
-**Previously, I worked on projects with Amazon**, where I contributed to large-scale backend systems processing millions of transactions daily, focusing on distributed application development, cloud-native services, API optimization, system scalability, and operational excellence. My experience also includes **4+ years of hands-on Kafka Administration**, including Kafka cluster management, broker configuration, topic administration, partition replication, TLS/SSL upgrades, patching, monitoring, troubleshooting, and production support across complex clustered environments.
+**Previously, I worked on projects with Amazon**, where I contributed to large-scale backend systems processing millions of transactions daily, focusing on distributed application development, cloud infrastructure, and system reliability.
 
-I have strong experience handling **Incident, Problem, Change, and Request Management** processes, performing **root cause analysis (RCA)**, resolving critical production issues, and implementing long-term fixes to improve application reliability and operational efficiency. I've worked extensively with **Linux environments**, **CI/CD pipelines**, **monitoring tools**, and **automation strategies** to support scalable and resilient enterprise platforms.
+I have strong experience handling **Incident, Problem, Change, and Request Management** processes, performing **root cause analysis (RCA)**, resolving critical production issues, and implementing long-term solutions.
 
-I specialize in building **resilient, data-driven systems**, optimizing **distributed applications**, and supporting **scalable messaging and cloud infrastructures** capable of handling growing business demands. I'm currently pursuing an **MBA in Project Management** to further strengthen my leadership, strategy, and execution capabilities, and I'm interested in opportunities that combine backend engineering, Kafka administration, cloud technologies, production support, and large-scale distributed systems.
+I specialize in building **resilient, data-driven systems**, optimizing **distributed applications**, and supporting **scalable messaging and cloud infrastructures** capable of handling growing business demands.
 
 ---
 
