@@ -11,7 +11,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+Engineer;8%2B+Years+of+Enterprise+Experience;Java+%7C+Kafka+%7C+AWS+%7C+Microservices;Building+Scalable%2C+High-Performance+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+Engineer;8%2B+Years+of+Enterprise+Experience;Java+%7C+Kafka+%7C+AWS+%7C+Microservices; Building+Scalable%2C+High-Performance+Systems" alt="Typing SVG" />
 </p>
 
 ---
